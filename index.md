@@ -6,7 +6,7 @@ I am a senior at Smith College majoring in quantitative economics and mathematic
 <nav>
     		<ul>
         		<li><a href="/cv">CV</a></li>
-	        	<li><a href="/Research">About</a></li>
+	        	<li><a href="/research">Research</a></li>
         		
 	</ul>
 </nav>
