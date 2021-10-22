@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Carol Gao
+
+I am a senior at Smith College majoring in Quantitative Economics and Mathematics.
 
 You can use the [editor on GitHub](https://github.com/carolxmgao/carolgao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
