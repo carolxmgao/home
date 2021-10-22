@@ -1,4 +1,4 @@
-## Welcome to my homepage
+## Carol Gao
 
 I am a senior at Smith College majoring in quantitative economics and mathematics. 
 
