@@ -3,13 +3,6 @@
 I am a senior at Smith College majoring in quantitative economics and mathematics. 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 <nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -17,7 +10,15 @@ Syntax highlighted code block
         		<li><a href="/cv">CV</a></li>
         		<li><a href="/blog">Blog</a></li>
     		</ul>
-	</nav>
+</nav>
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
     
 # Header 1
 ## Header 2
